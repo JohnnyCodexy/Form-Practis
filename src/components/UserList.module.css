@@ -1,0 +1,14 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2rem auto;
+  width: 100%;
+}
+
+.user {
+  box-shadow: 3px 2px 5px gray;
+
+  width: 250px;
+  margin: 0.5rem;
+  padding: 5px;
+}

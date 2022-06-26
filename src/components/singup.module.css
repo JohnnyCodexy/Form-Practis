@@ -1,0 +1,40 @@
+.form {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+label {
+  width: 100%;
+  text-align: left;
+  margin: 0.5rem;
+  font-size: medium;
+}
+
+input {
+  width: 100%;
+  margin: 0.5rem;
+}
+
+button {
+  margin-top: 1.5rem;
+  margin-left: 0.5rem;
+}
+
+.errorcontainer {
+  height: 15px;
+  width: 100%;
+}
+
+.error {
+  height: 30px;
+  text-align: left;
+  width: 100%;
+  margin-left: 0.5rem;
+  font-size: small;
+  color: red;
+}
+
+.register {
+  margin: 0.5rem;
+  font-size: large;
+}
